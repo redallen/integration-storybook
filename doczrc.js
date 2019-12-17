@@ -7,5 +7,6 @@ export default {
     { name: 'User editing' },
     { name: 'Views' },
     { name: 'Indicators' },
+    { name: 'New' },
   ]
 }
